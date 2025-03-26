@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="Group_28122" data-name="Group 28122" transform="translate(-158.001 -1091)">
+    <g id="Group_24612" data-name="Group 24612" transform="translate(131.633 250.632)">
+      <g id="Group_24608" data-name="Group 24608" transform="translate(26 840)">
+        <g id="Ellipse_886" data-name="Ellipse 886" transform="translate(0.368 0.368)" fill="rgba(0,0,0,0.22)" stroke="rgba(255,255,255,0.2)" stroke-width="1">
+          <circle cx="30" cy="30" r="30" stroke="none"/>
+          <circle cx="30" cy="30" r="29.5" fill="none"/>
+        </g>
+        <g id="vuesax_linear_video-circle" data-name="vuesax/linear/video-circle" transform="translate(7.592 7.592)">
+          <g id="video-circle">
+            <path id="Vector" d="M0,0H45.552V45.552H0Z" fill="none" opacity="0"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Polygon_7" data-name="Polygon 7" transform="translate(196 1113) rotate(90)" fill="none">
+      <path d="M7.148,1.384a1,1,0,0,1,1.7,0l6.21,10.092A1,1,0,0,1,14.21,13H1.79a1,1,0,0,1-.852-1.524Z" stroke="none"/>
+      <path d="M 8 3.816082000732422 L 3.579132080078125 11.00000381469727 L 12.42086982727051 11.00000381469727 L 8 3.816082000732422 M 7.999999523162842 0.9080390930175781 C 8.328207015991211 0.9080390930175781 8.656414031982422 1.06667423248291 8.851659774780273 1.383943557739258 L 15.06208992004395 11.47590446472168 C 15.4721097946167 12.14217376708984 14.99275970458984 13.00000381469727 14.21042919158936 13.00000381469727 L 1.789559364318848 13.00000381469727 C 1.00723934173584 13.00000381469727 0.5278892517089844 12.14217376708984 0.9379091262817383 11.47590446472168 L 7.14833927154541 1.383943557739258 C 7.343584060668945 1.06667423248291 7.671792030334473 0.9080390930175781 7.999999523162842 0.9080390930175781 Z" stroke="none" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="212" height="132" viewBox="0 0 212 132">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_19705" data-name="Rectangle 19705" width="212" height="132" rx="24" transform="translate(614 1075)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Group_28061" data-name="Group 28061" transform="translate(-614 -2130)">
+    <g id="Mask_Group_3472" data-name="Mask Group 3472" transform="translate(0 1055)" clip-path="url(#clip-path)">
+      <g id="Group_24845" data-name="Group 24845">
+        <rect id="Rectangle_19705-2" data-name="Rectangle 19705" width="106" height="66" transform="translate(614 1075)" fill="#ff1a23"/>
+        <rect id="Rectangle_19708" data-name="Rectangle 19708" width="106" height="66" transform="translate(614 1141)" fill="#ffb90d"/>
+        <rect id="Rectangle_19706" data-name="Rectangle 19706" width="106" height="66" transform="translate(720 1075)" fill="#208aff"/>
+        <rect id="Rectangle_19707" data-name="Rectangle 19707" width="106" height="66" transform="translate(720 1141)" fill="#90d101"/>
+      </g>
+    </g>
+    <g id="EBay_logo" transform="translate(651.721 2169.029)">
+      <path id="e" d="M17.758,26.308C8.126,26.308.1,30.395.1,42.723.1,52.49,5.5,58.64,18.007,58.64c14.725,0,15.669-9.7,15.669-9.7H26.541s-1.53,5.223-8.969,5.223c-6.059,0-10.417-4.093-10.417-9.83H34.422v-3.6c0-5.676-3.6-14.425-16.663-14.425Zm-.249,4.6c5.768,0,9.7,3.533,9.7,8.829H7.312C7.312,34.117,12.445,30.909,17.51,30.909Z" transform="translate(0 -14.27)" fill="#fff"/>
+      <path id="b" d="M75.253.1V38.179c0,2.161-.154,5.2-.154,5.2H81.9s.244-2.18.244-4.172c0,0,3.362,5.26,12.5,5.26,9.627,0,16.166-6.684,16.166-16.259,0-8.908-6.006-16.073-16.151-16.073-9.5,0-12.451,5.13-12.451,5.13V.1ZM92.912,16.841c6.537,0,10.694,4.852,10.694,11.363,0,6.982-4.8,11.549-10.648,11.549-6.977,0-10.741-5.448-10.741-11.487C82.217,22.639,85.594,16.841,92.912,16.841Z" transform="translate(-40.837)" fill="#fff"/>
+      <path id="a" d="M169.537,26.308c-14.491,0-15.42,7.934-15.42,9.2h7.213s.378-4.632,7.71-4.632c4.764,0,8.456,2.181,8.456,6.373v1.492h-8.456c-11.226,0-17.161,3.284-17.161,9.948,0,6.559,5.484,10.127,12.894,10.127,10.1,0,13.353-5.58,13.353-5.58,0,2.22.171,4.407.171,4.407h6.412s-.249-2.711-.249-4.446V38.208c0-9.83-7.929-11.9-14.923-11.9ZM177.5,43.221v1.99c0,2.6-1.6,9.047-11.029,9.047-5.162,0-7.376-2.576-7.376-5.565,0-5.437,7.454-5.472,18.4-5.472Z" transform="translate(-82.643 -14.27)" fill="#fff"/>
+      <path id="y" d="M214.879,29.041h8.114l11.645,23.33,11.618-23.33h7.35L232.444,70.575h-7.71L230.841,59Z" transform="translate(-116.946 -15.758)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

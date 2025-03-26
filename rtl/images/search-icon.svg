@@ -1,0 +1,7 @@
+<svg id="vuesax_linear_search-normal" data-name="vuesax/linear/search-normal" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="search-normal">
+    <path id="Vector" d="M13.75,6.875A6.875,6.875,0,1,1,6.875,0,6.875,6.875,0,0,1,13.75,6.875Z" transform="translate(2.5 2.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+    <path id="Vector-2" data-name="Vector" d="M2.5,2.5,0,0" transform="translate(15 15)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+    <path id="Vector-3" data-name="Vector" d="M0,0H20V20H0Z" fill="none" opacity="0"/>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg id="shopping-cart" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <path id="Vector" d="M0,0H1.16A1.233,1.233,0,0,1,2.387,1.333l-.553,6.64a1.864,1.864,0,0,0,1.86,2.02h7.1a1.918,1.918,0,0,0,1.873-1.74l.36-5a1.849,1.849,0,0,0-1.873-2.007H2.547" transform="translate(1.333 1.333)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+  <path id="Vector-2" data-name="Vector" d="M1.667.833A.833.833,0,1,1,.833,0,.833.833,0,0,1,1.667.833Z" transform="translate(10 13)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+  <path id="Vector-3" data-name="Vector" d="M1.667.833A.833.833,0,1,1,.833,0,.833.833,0,0,1,1.667.833Z" transform="translate(4.667 13)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+  <path id="Vector-4" data-name="Vector" d="M0,0H8" transform="translate(6 5.333)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+  <path id="Vector-5" data-name="Vector" d="M0,0H16V16H0Z" fill="none" opacity="0"/>
+</svg>

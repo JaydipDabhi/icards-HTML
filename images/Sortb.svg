@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="vuesax_linear_sort" data-name="vuesax/linear/sort" transform="translate(-172 -316)">
+    <g id="sort" transform="translate(172 316)">
+      <path id="Vector" d="M0,0H15" transform="translate(2.5 4.833)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="2"/>
+      <path id="Vector-2" data-name="Vector" d="M0,0H10" transform="translate(5 10)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="2"/>
+      <path id="Vector-3" data-name="Vector" d="M0,0H3.333" transform="translate(8.333 15.167)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="2"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0H20V20H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

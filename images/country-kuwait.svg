@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_20817" data-name="Rectangle 20817" width="22" height="22" rx="11" transform="translate(-0.11 -0.11)" fill="#fffcee" stroke="#c4d6b0" stroke-miterlimit="10" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Kuwait" transform="translate(0.11 0.11)" clip-path="url(#clip-path)">
+    <g id="Group_28185" data-name="Group 28185" transform="translate(-3.47 -0.481)">
+      <path id="Path_44115" data-name="Path 44115" d="M0,159.938H45.485v7.582H0Z" transform="translate(0 -152.359)" fill="#fff" fill-rule="evenodd"/>
+      <path id="Path_44116" data-name="Path 44116" d="M0,319.969H45.485v7.582H0Z" transform="translate(0 -304.809)" fill="#f31830" fill-rule="evenodd"/>
+      <path id="Path_44117" data-name="Path 44117" d="M0,0H45.485V7.582H0Z" fill="#00d941" fill-rule="evenodd"/>
+      <path id="Path_44118" data-name="Path 44118" d="M0,0V22.742L11.345,15.16l.027-7.587Z" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

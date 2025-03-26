@@ -1,0 +1,8 @@
+<svg id="bag-tick" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <path id="Vector" d="M0,1,1,2,3.167,0" transform="translate(6.413 9.667)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+  <path id="Vector-2" data-name="Vector" d="M2.413,0,0,2.42" transform="translate(3.46 1.333)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+  <path id="Vector-3" data-name="Vector" d="M0,0,2.413,2.42" transform="translate(10.127 1.333)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+  <path id="Vector-4" data-name="Vector" d="M0,1.333C0,.1.66,0,1.48,0H11.853c.82,0,1.48.1,1.48,1.333,0,1.433-.66,1.333-1.48,1.333H1.48C.66,2.667,0,2.767,0,1.333Z" transform="translate(1.333 3.9)" fill="none" stroke="#292d32" stroke-width="1.2"/>
+  <path id="Vector-5" data-name="Vector" d="M0,0,.94,5.76A2.292,2.292,0,0,0,3.573,8h4.02c2.073,0,2.38-.907,2.62-2.16L11.333,0" transform="translate(2.333 6.667)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-width="1.2"/>
+  <path id="Vector-6" data-name="Vector" d="M0,0H16V16H0Z" fill="none" opacity="0"/>
+</svg>
